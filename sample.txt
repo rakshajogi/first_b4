@@ -1,3 +1,5 @@
 hello sample
 
 git hub changes in sample.txt
+
+branch1 and master are same lets see ...
